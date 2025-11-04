@@ -1,0 +1,12 @@
+Cycle,Timestamp,Packets,Flow_Duration,Status,Attack_Type,Action
+1,23:57:13,13,118,NORMAL,Normal,
+2,23:57:13,17,383,NORMAL,Normal,
+3,23:57:13,43,345,NORMAL,Normal,
+4,23:57:14,36,622,NORMAL,Normal,
+5,23:57:14,4,80,NORMAL,Normal,
+6,23:57:14,20,743,NORMAL,Normal,
+7,23:57:15,10,557,NORMAL,Normal,
+8,23:57:15,8,510,NORMAL,Normal,
+9,23:57:15,37,914,ANOMALY,Normal,Blocked 203.0.113.15 at 23:57:15 (packets=37)
+10,23:57:16,23,447,NORMAL,Normal,
+11,23:57:16,280,479,ANOMALY,DDoS,Blocked 203.0.113.15 at 23:57:16 (packets=280)

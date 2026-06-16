@@ -60,7 +60,7 @@ The system consists of four major components:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/self-healing-firewall.git
+git clone https://github.com/Mathivadhana04/self-healing-firewall.git
 cd self-healing-firewall
 Step 2: Create a Virtual Environment
 python -m venv venv
